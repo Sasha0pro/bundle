@@ -1,5 +1,5 @@
 {
-    "name": "bundle/dtoservice",
+    "name": "sasha0pro/symfonybundle",
     "type": "symfony-bundle",
     "license": "proprietary",
     "minimum-stability": "stable",
