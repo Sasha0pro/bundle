@@ -1,5 +1,5 @@
 {
-    "name": "sasha0pro/symfonybundle",
+    "name": "sasha0pro/symfony_bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "prefer-stable": true,
@@ -60,9 +60,6 @@
         "symfony/symfony": "*"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        },
         "symfony": {
             "allow-contrib": false,
             "require": "7.0.*"
