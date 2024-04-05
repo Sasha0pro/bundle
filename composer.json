@@ -1,8 +1,7 @@
 {
     "name": "sasha0pro/symfonybundle",
     "type": "symfony-bundle",
-    "license": "proprietary",
-    "minimum-stability": "stable",
+    "license": "MIT",
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
@@ -61,6 +60,9 @@
         "symfony/symfony": "*"
     },
     "extra": {
+        "branch-alias": {
+            "dev-main": "1.0.x-dev"
+        },
         "symfony": {
             "allow-contrib": false,
             "require": "7.0.*"
